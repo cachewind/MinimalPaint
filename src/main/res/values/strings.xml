@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Minimal Paint</string>
+    <string name="mode_format">Mode: %s</string>
+    <string name="color">Color</string>
+    <string name="emboss">Bold</string>
+    <string name="blur">Blur</string>
+    <string name="brush_size">Brush size</string>
+    <string name="erase">Erase</string>
+    <string name="undo">Undo</string>
+    <string name="redo">Redo</string>
+    <string name="clear_all">Erase all</string>
+    <string name="save">Save</string>
+    <string name="share">Share</string>
+    <string name="about">About</string>
+    <string name="your_selected_size_is">Selected size: %1$s</string>
+    <string name="erase_size">Erase size</string>
+    <string name="saved_your_location_to">Saved your artwork to %1$s</string>
+    <string name="pick_color">Pick a Color</string>
+    <string name="toolbox_share_title">Share</string>
+    <string name="share_title_template">Look at what I painted with Minimal Paint! --- Minimal Paint (Simple finger painting) - https://play.google.com/store/apps/details?id=cache.wind.minimal.paint</string>
+    <string name="share_text_template">Share as text</string>
+    <string name="no_way_to_share">Can\'t locate an app to share with…</string>
+    <string name="normal">Pencil</string>
+    <string name="title_activity_about">About</string>
+    <string name="press_back_again">Press back again to exit!\n(Losing all the unsaved work)</string>
+    <string name="about_description">
+<![CDATA[
+<h1>Minimal Paint</h1>
+<p>Thanks for using Minimal Paint!<br />A <b>Free and Open Source Software</b> to free your creativity!</p>
+
+<h2>Credits</h2>
+<p>Special thanks to:
+<b><a href="https://github.com/valerio-bozzolan/AcrylicPaint">Valerio Bozzolan</a></b>
+</p>    
+
+<h2>Licenses</h2>
+<p>This version of Minimal Paint and its source code are released under the terms of the <i>GNU GPLv3+</i> license.
+This license gives everyone the ability to use, study, better and share this app with <b>any means</b> and for <b>every purpose</b> as long as you offer these same rights to the others.</p>
+<p>This app is distributed <b>in the hope that it will be useful to everyone</b>, but without any warranty; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.</p>
+
+<h2>Note</h2>
+<p>If you notice any problem or if you have some ideas feel free to use the <a href="https://github.com/CacheWind/MinimalPaint/issues">bug tracker</a>.</p>
+<p>Contribute to the source code: <a href="https://github.com/CacheWind/MinimalPaint">CacheWind/MinimalPaint</a> @GitHub.</p>
+
+<p>Have fun!</p> 
+    ]]>
+    </string>
+
+</resources>

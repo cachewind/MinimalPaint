@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">极简绘画</string>
+    <string name="mode_format">模式： %s</string>
+    <string name="color">颜色</string>
+    <string name="emboss">加粗</string>
+    <string name="blur">模糊</string>
+    <string name="brush_size">画笔大小</string>
+    <string name="erase">抹去</string>
+    <string name="undo">撤销</string>
+    <string name="redo">重做</string>
+    <string name="clear_all">清空画板</string>
+    <string name="save">保存</string>
+    <string name="share">分享</string>
+    <string name="about">关于</string>
+    <string name="your_selected_size_is">所选大小： %1$s</string>
+    <string name="erase_size">抹去大小</string>
+    <string name="saved_your_location_to">已将您的图画保存到 %1$s</string>
+    <string name="pick_color">选择颜色</string>
+    <string name="toolbox_share_title">分享</string>
+    <string name="share_title_template">快来看看我使用极简绘画设计的作品！ --- 极简绘画 (简便的绘画工具) - https://play.google.com/store/apps/details?id=cache.wind.minimal.paint</string>
+    <string name="share_text_template">分享文本</string>
+    <string name="no_way_to_share">无法找到可分享的应用程序…</string>
+    <string name="normal">画笔</string>
+    <string name="title_activity_about">关于</string>
+    <string name="press_back_again">请再一次返回退出！\n(未保存图画将会丢失)</string>
+    <string name="about_description">
+<![CDATA[
+<h1>Minimal Paint</h1>
+<p>Thanks for using Minimal Paint!<br />A <b>Free and Open Source Software</b> to free your creativity!</p>
+
+<h2>Credits</h2>
+<p>Special thanks to:
+<b><a href="https://github.com/valerio-bozzolan/AcrylicPaint">Valerio Bozzolan</a></b>
+</p>
+
+<h2>Licenses</h2>
+<p>This version of Minimal Paint and its source code are released under the terms of the <i>GNU GPLv3+</i> license.
+This license gives everyone the ability to use, study, better and share this app with <b>any means</b> and for <b>every purpose</b> as long as you offer these same rights to the others.</p>
+<p>This app is distributed <b>in the hope that it will be useful to everyone</b>, but without any warranty; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.</p>
+
+<h2>Note</h2>
+<p>If you notice any problem or if you have some ideas feel free to use the <a href="https://github.com/CacheWind/MinimalPaint/issues">bug tracker</a>.</p>
+<p>Contribute to the source code: <a href="https://github.com/CacheWind/MinimalPaint">CacheWind/MinimalPaint</a> @GitHub.</p>
+
+<p>Have fun!</p>
+    ]]>
+    </string>
+
+</resources>
